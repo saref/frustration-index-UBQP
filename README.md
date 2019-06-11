@@ -2,17 +2,24 @@
 The algorithm based on the UBQP model (Aref et al. 2018) for computing the exact value of frustration index (also called line index of balance)
 
 Unconstrained binary quadratic programming (UBQP) model for computing the frustration index of a signed graph
+
 Jupyter code written by Samin Aref in 2015
+
 Creative common licence: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 If you use this code, please cite the two following publications:
+
 Aref, S., Mason, A. J., and Wilson, M. C. An exact method for computing the frustration index in signed networks using binary programming. arXiv:1611.09030 (2017). url: http://arxiv.org/pdf/1611.09030.
+
 Aref, S., Mason, A. J., and Wilson, M. C. Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://www.springer.com/gp/book/9783319948294. doi: 10.1007/978-3-319-94830-0_3
 
 Suggested publications:
 Aref, S. Signed Network Structural Analysis and Applications with a Focus on Balance Theory. (Ph.D. thesis) University of Auckland (2019).
+
 Aref, S., and Wilson, M. C. Balance and frustration in signed networks. Journal of Complex Networks (in press) (2019). doi: 10.1093/comnet/cny015.
-Aref, S., and Wilson, M. C. Measuring partial balance in signed networks. Journal of Complex Networks 6, 4 (2018), 566-595. doi: 10.1093/comnet/cnx044.  
+
+Aref, S., and Wilson, M. C. Measuring partial balance in signed networks. Journal of Complex Networks 6, 4 (2018), 566-595. doi: 10.1093/comnet/cnx044.
+
 Aref, S., and Neal, Z. Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
 
 Related dataset:
