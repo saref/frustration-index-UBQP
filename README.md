@@ -29,17 +29,17 @@ Aref, S. Signed networks from sociology and political science, systems biology, 
 
 You need the following software to run the code:
 
-1-Anaconda (for running Jupyter)
-2-Gurobi (to be downloaded from http://www.gurobi.com and registered with a (free academic) license)
+1-Anaconda: for running Jupyter
+
+2-Gurobi: to be downloaded from http://www.gurobi.com and registered with a (free academic) license
+
 3-Gurobi installed into Anaconda
 
 Setting up these three steps is explained in here:
 
 for windows
 https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
-
 for Linux
 https://www.gurobi.com/documentation/8.1/quickstart_linux/installing_the_anaconda_py.html
-
 for mac
 https://www.gurobi.com/documentation/8.1/quickstart_mac/installing_the_anaconda_py.html
