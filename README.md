@@ -22,7 +22,7 @@ Aref, S., and Wilson, M. C. Balance and frustration in signed networks. Journal 
 Aref, S., and Wilson, M. C. Measuring partial balance in signed networks. Journal of Complex Networks 6, 4 (2018), 566-595. doi: 10.1093/comnet/cnx044.
 
 Aref, S., and Neal, Z. Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
-
+ 
 Related dataset:
 
 Aref, S. Signed networks from sociology and political science, systems biology, international relations, finance, and computational chemistry. Figshare research data repository (2017). doi: 10.6084/m9.figshare.5700832.v2.
