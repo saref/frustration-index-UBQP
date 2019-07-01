@@ -33,7 +33,7 @@ You need the following software installed on your computer to be able to run the
 
 2-Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
 
-Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with an academic institution. This involves creating an account on Gurobi website and requesting a free academic license.
+Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with a recognized degree-granting academic institution. This involves creating an account on Gurobi website and requesting a free academic license.
 
 3-Gurobi installed into Anaconda
 
@@ -41,7 +41,9 @@ Setting up these three steps is explained in in the following links:
 
 for windows
 https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
+
 for Linux
 https://www.gurobi.com/documentation/8.1/quickstart_linux/installing_the_anaconda_py.html
+
 for mac
 https://www.gurobi.com/documentation/8.1/quickstart_mac/installing_the_anaconda_py.html
