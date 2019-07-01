@@ -47,3 +47,5 @@ https://www.gurobi.com/documentation/8.1/quickstart_linux/installing_the_anacond
 
 for mac
 https://www.gurobi.com/documentation/8.1/quickstart_mac/installing_the_anaconda_py.html
+
+After following the instructions above, open Jupyter Notebook which takes you to an environment (a new tab on your browser pops up on your screen) where you can open the main code (which is a file with .ipynb extension).
