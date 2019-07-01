@@ -39,10 +39,12 @@ Note that Gurobi is a commercial software, but it can be registered with a free 
 4-Install Gurobi into Anaconda. You do this by first adding the Gurobi channel to your Anaconda channels and then installing the gurobi package from this channel.
 
 From a terminal window issue the following command to add the Gurobi channel to your default search list
- conda config --add channels http://conda.anaconda.org/gurobi
+
+conda config --add channels http://conda.anaconda.org/gurobi
 
 Now issue the following command to install the Gurobi package
- conda install gurobi
+
+conda install gurobi
 
 Completing these steps is explained in the following links: 
 
