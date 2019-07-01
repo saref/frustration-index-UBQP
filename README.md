@@ -1,5 +1,5 @@
 # frustration-index-UBQP
-The algorithm based on the UBQP model (Aref et al. 2018) for computing the exact value of frustration index (also called line index of balance)
+This algorithm is designed in Python 3.7 based on the UBQP model (Aref et al. 2018) for computing the exact value of frustration index (also called line index of balance).
 
 Unconstrained binary quadratic programming (UBQP) model for computing the frustration index of a signed graph
 
@@ -27,15 +27,17 @@ Related dataset:
 
 Aref, S. Signed networks from sociology and political science, systems biology, international relations, finance, and computational chemistry. Figshare research data repository (2017). doi: 10.6084/m9.figshare.5700832.v2.
 
-You need the following software to run the code:
+You need the following software installed on your computer to be able to run the code:
 
-1-Anaconda: for running Jupyter
+1-Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/
 
-2-Gurobi: to be downloaded from http://www.gurobi.com and registered with a (free academic) license
+2-Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
+
+Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with an academic institution. This involves creating an account on Gurobi website and requesting a free academic license.
 
 3-Gurobi installed into Anaconda
 
-Setting up these three steps is explained in here:
+Setting up these three steps is explained in in the following links:
 
 for windows
 https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
