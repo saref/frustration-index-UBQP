@@ -29,7 +29,7 @@ Aref, S. Signed networks from sociology and political science, systems biology, 
 
 You need the following software installed on your computer to be able to run the code:
 
-1-Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/
+1-Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/. You must select your operating system first and download the corresponding installer.
 
 2-Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
 
