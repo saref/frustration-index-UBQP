@@ -27,17 +27,18 @@ Related dataset:
 
 Aref, S. Signed networks from sociology and political science, systems biology, international relations, finance, and computational chemistry. Figshare research data repository (2017). doi: 10.6084/m9.figshare.5700832.v2.
 
-You need the following software installed on your computer to be able to run the code:
+The following steps outline the process for installing the required software on your computer to be able to run the code:
 
-1-Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/. You must select your operating system first and download the corresponding installer.
+1-Download and install Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/. You must select your operating system first and download the corresponding installer.
 
-2-Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
-
+2-Register for an account on https://www.gurobi.com/registration-general-reg/ to get a free academic license for using Gurobi.
 Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with a recognized degree-granting academic institution. This involves creating an account on Gurobi website and requesting a free academic license.
 
-3-Gurobi installed into Anaconda
+3-Download and install Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
 
-Setting up these three steps is explained in in the following links:
+4-Install Gurobi into Anaconda
+
+Completing these steps is explained in the following links:
 
 for windows
 https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
