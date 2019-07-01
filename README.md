@@ -31,7 +31,7 @@ The following steps outline the process for installing the required software on 
 
 1-Download and install Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/. You must select your operating system first and download the corresponding installer.
 
-2-Register for an account on https://www.gurobi.com/registration-general-reg/ to get a free academic license for using Gurobi.
+2-Register for an account on https://www.gurobi.com/downloads/gurobi-optimizer-eula/ to get a free academic license for using Gurobi.
 Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with a recognized degree-granting academic institution. This involves creating an account on Gurobi website and requesting a free academic license.
 
 3-Download and install Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
@@ -45,6 +45,8 @@ conda config --add channels http://conda.anaconda.org/gurobi
 Now issue the following command to install the Gurobi package
 
 conda install gurobi
+
+5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on the computer where Gurobi Optimizer is installed following the instructions given on Gurobi license page.
 
 Completing these steps is explained in the following links: 
 
