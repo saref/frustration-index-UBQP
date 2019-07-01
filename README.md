@@ -36,9 +36,15 @@ Note that Gurobi is a commercial software, but it can be registered with a free 
 
 3-Download and install Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
 
-4-Install Gurobi into Anaconda
+4-Install Gurobi into Anaconda. You do this by first adding the Gurobi channel to your Anaconda channels and then installing the gurobi package from this channel.
 
-Completing these steps is explained in the following links:
+From a terminal window issue the following command to add the Gurobi channel to your default search list
+ conda config --add channels http://conda.anaconda.org/gurobi
+
+Now issue the following command to install the Gurobi package
+ conda install gurobi
+
+Completing these steps is explained in the following links: 
 
 for windows
 https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
