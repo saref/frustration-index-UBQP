@@ -1,13 +1,11 @@
 # frustration-index-UBQP
 This algorithm is designed in Python 3.7 based on the UBQP model (Aref et al. 2018) for computing the exact value of frustration index (also called line index of balance).
 
-Unconstrained binary quadratic programming (UBQP) model for computing the frustration index of a signed graph
+Unconstrained binary quadratic programming (UBQP) model for computing the frustration index of a signed graph - Jupyter code written by Samin Aref in 2015
 
-Jupyter code written by Samin Aref in 2015
+Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Creative common licence: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-If you use this code, please cite the two following publications:
+Using this code for non-commercial purposes is permitted to all given that the two following publications are cited:
 
 Aref, S., Mason, A. J., and Wilson, M. C. An exact method for computing the frustration index in signed networks using binary programming. arXiv:1611.09030 (2017). url: http://arxiv.org/pdf/1611.09030.
 
@@ -29,14 +27,14 @@ Aref, S. Signed networks from sociology and political science, systems biology, 
 
 The following steps outline the process for installing the required software on your computer to be able to run the code:
 
-1-Download and install Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/. You must select your operating system first and download the corresponding installer.
+1-Download and install Anaconda (Python 3.7 version) which allows you to run a Jupyter code. It can be downloaded from https://www.anaconda.com/distribution/. Note that you must select your operating system first and download the corresponding installer.
 
 2-Register for an account on https://www.gurobi.com/downloads/gurobi-optimizer-eula/ to get a free academic license for using Gurobi (world's most powerful mathematical solver!).
 Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with a recognized degree-granting academic institution. This involves creating an account on Gurobi website and requesting a free academic license.
 
 3-Download and install Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from http://www.gurobi.com 
 
-4-Install Gurobi into Anaconda. You do this by first adding the Gurobi channel to your Anaconda channels and then installing the gurobi package from this channel.
+4-Install Gurobi into Anaconda. You do this by first adding the Gurobi channel to your Anaconda channels and then installing the Gurobi package from this channel.
 
 From a terminal window issue the following command to add the Gurobi channel to your default search list
 
@@ -46,7 +44,7 @@ Now issue the following command to install the Gurobi package
 
 conda install gurobi
 
-5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on the computer where Gurobi Optimizer is installed following the instructions given on Gurobi license page.
+5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on following the instructions given on Gurobi license page.
 
 Completing these steps is explained in the following links: 
 
