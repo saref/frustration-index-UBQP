@@ -13,11 +13,9 @@ Aref, S., Mason, A. J., and Wilson, M. C. Computing the line index of balance us
 
 Suggested publications:
 
-Aref, S. Signed Network Structural Analysis and Applications with a Focus on Balance Theory. (Ph.D. thesis) University of Auckland (2019).
+Aref, S., and Wilson, M. C. Measuring partial balance in signed networks. Journal of Complex Networks 6, 4 (2018), 566-595. doi: 10.1093/comnet/cnx044.
 
 Aref, S., and Wilson, M. C. Balance and frustration in signed networks. Journal of Complex Networks (in press) (2019). doi: 10.1093/comnet/cny015.
-
-Aref, S., and Wilson, M. C. Measuring partial balance in signed networks. Journal of Complex Networks 6, 4 (2018), 566-595. doi: 10.1093/comnet/cnx044.
 
 Aref, S., and Neal, Z. Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
  
