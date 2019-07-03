@@ -44,7 +44,7 @@ conda install gurobi
 
 5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on following the instructions given on Gurobi license page.
 
-Completing these steps is explained in the following links: 
+Completing these steps is explained in the following links (for version 8.1): 
 
 for windows
 https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
