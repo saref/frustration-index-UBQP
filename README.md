@@ -42,7 +42,7 @@ Now issue the following command to install the Gurobi package
 
 conda install gurobi
 
-5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on following the instructions given on Gurobi license page.
+5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on your computer following the instructions given on Gurobi license page.
 
 Completing these steps is explained in the following links (for version 8.1): 
 
