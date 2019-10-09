@@ -7,7 +7,7 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the two following publications are cited:
 
-Aref, S., Mason, A. J., and Wilson, M. C., A modelling and computational study of the frustration index in signed networks. arXiv:1611.09030 (2017). url: http://arxiv.org/pdf/1611.09030.
+Aref, S., Mason, A. J., and Wilson, M. C., A modeling and computational study of the frustration index in signed networks. Networks (2019). url: https://doi.org/10.1002/net.21907.
 
 Aref, S., Mason, A. J., and Wilson, M. C., Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://www.springer.com/gp/book/9783319948294. doi: 10.1007/978-3-319-94830-0_3
 
@@ -15,7 +15,7 @@ Suggested publications:
 
 Aref, S., and Wilson, M. C., Measuring partial balance in signed networks. Journal of Complex Networks 6, 4 (2018), 566-595. doi: 10.1093/comnet/cnx044.
 
-Aref, S., and Wilson, M. C., Balance and frustration in signed networks. Journal of Complex Networks (in press) (2019). doi: 10.1093/comnet/cny015.
+Aref, S., and Wilson, M. C., Balance and frustration in signed networks. Journal of Complex Networks 7, 2 (2019), 163–189. doi: 10.1093/comnet/cny015.
 
 Aref, S., and Neal, Z., Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
  
